@@ -26,3 +26,32 @@ und aktivieren Sie dieses Verhalten über eine geeignete Struktur (zB. switch() 
 "Ich bin Max Mütze und beginne meine Arbeit um 08:00."
 
 Erstellen Sie in ein entsprechendes Klassendiagramm.
+
+
+//Englisch
+
+Create a class **Employee** with the following attributes.
+
+1. name, first name, year of birth
+2. employee number, department, job
+
+- Implement the attributes under 1. as private and create suitable
+getter/setter methods.
+- Implement two public methods hasLunch()* & startsWork()* that should apply to all instances.
+instances.
+
+Create a **specific** method for each employee in
+
+1. accounting (Accounting) e.g. callsCustomer()* etc.
+2. production (Manufacturing)
+3. advertising (Advertising)
+
+and activate this behaviour via a suitable structure (e.g. switch() )and a parameter transfer in a public method doYourWork( String flag ).Create 3 different employees in the class Company.
+
+
+* here you can make text outputs. eg. 
+"I am Max Mütze and I start work at 08:00".
+
+Create a corresponding class diagram.
+
+Translated with www.DeepL.com/Translator (free version)
